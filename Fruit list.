@@ -1,0 +1,3 @@
+user = input("Enter your fruits(separated by space): ")
+user_list = user_input.split()
+print("Your fruit list is: ", user_list)
